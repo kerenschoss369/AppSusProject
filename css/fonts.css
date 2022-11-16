@@ -1,0 +1,11 @@
+/* FONTS */
+
+@font-face {
+    font-family: Lobster;
+    src: url('/fonts/Lobster-Regular.ttf');
+}
+
+@font-face {
+    font-family: Lato;
+    src: url('/fonts/Lato-Regular.ttf');
+}

@@ -1,0 +1,45 @@
+/* HEADER - NAVBAR */
+
+.main-title {
+    font-family: lobster;
+    text-align: center;
+    padding: 15px;
+    color: rgb(5, 70, 189);
+    font-size: 2rem;
+}
+
+.logo {
+    font-size: 3rem;
+    padding: 30px;
+    margin-bottom: 15px;
+}
+
+.main-header {
+    background-color: #e2e2e2;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-bottom: 3px solid #0546bd;
+}
+
+.main-nav {
+    list-style: none;
+    text-decoration: none;
+}
+
+.main-nav a {
+    color: rgb(63, 62, 62);
+}
+
+.main-nav a:hover {
+    color: rgb(5, 70, 189);
+}
+
+.main-nav .active {
+    color: rgb(5, 70, 189);
+    font-weight: bold;
+}
+
+.main-nav li {
+    margin-left: 20px;
+}

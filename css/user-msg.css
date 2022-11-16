@@ -1,0 +1,17 @@
+.msg-container {
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    padding: 15px;
+    margin: 15px;
+    border: 5px solid green;
+    border-radius: 8px;
+    transition: .3s;
+    background-color: white;
+    z-index: 999;
+    cursor: pointer;
+}
+
+.green {
+    color: green;
+}
